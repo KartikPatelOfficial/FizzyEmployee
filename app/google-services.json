@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "459113918994",
+    "firebase_url": "https://fizzy5-b140e.firebaseio.com",
+    "project_id": "fizzy5-b140e",
+    "storage_bucket": "fizzy5-b140e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459113918994:android:4a66afb3b429b139",
+        "android_client_info": {
+          "package_name": "com.deucate.fizz5employee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459113918994-1oaejgvic08vv9qkupfcm3vd3dhc7207.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deucate.fizz5employee",
+            "certificate_hash": "47938b70486cbffacda9cdb93e4673feca0adf90"
+          }
+        },
+        {
+          "client_id": "459113918994-03ost26fq5ctcmes5bql0ed4mgndsnaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhlPiqK-YvExVu52jburGDq-kpQRtCO88"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459113918994-03ost26fq5ctcmes5bql0ed4mgndsnaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459113918994:android:f632ce50cfcf49be",
+        "android_client_info": {
+          "package_name": "com.deucate.fizzy_5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459113918994-0h5hdi18mbbdeaqje5heb10oelpfi44p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deucate.fizzy_5",
+            "certificate_hash": "58790bfb18524ebeabbb3a3539f521949b4ade18"
+          }
+        },
+        {
+          "client_id": "459113918994-gm3iqobdf5qroc8ium5or7qhqp5m7ab2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deucate.fizzy_5",
+            "certificate_hash": "47938b70486cbffacda9cdb93e4673feca0adf90"
+          }
+        },
+        {
+          "client_id": "459113918994-rop4sni0gm9ouepb77o5rh6ekod6eo40.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deucate.fizzy_5",
+            "certificate_hash": "d255c17d0104964809c980ac0bf68fc9882f6fc6"
+          }
+        },
+        {
+          "client_id": "459113918994-03ost26fq5ctcmes5bql0ed4mgndsnaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhlPiqK-YvExVu52jburGDq-kpQRtCO88"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459113918994-03ost26fq5ctcmes5bql0ed4mgndsnaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
